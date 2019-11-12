@@ -1,0 +1,10 @@
+.footer-app {
+  margin: 0;
+  top: 50%;
+  height: 100px;
+  }
+
+.footer-text {
+    font-family: 'AbibasMedium';
+    font-size: 30px;
+}

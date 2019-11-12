@@ -1,0 +1,22 @@
+.row-cal {
+    margin-top: 20px;
+    margin-right: 40px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+.input-cal {
+    text-align: center;
+    background-color: transparent;
+    border-radius: 30px;
+    box-shadow: 1px 1px 1px 1px black;
+}
+
+
+.btn-cal {
+    box-shadow: 1px 1px 1px 1px black;
+    background-color: transparent;
+    border-radius: 30px;
+}

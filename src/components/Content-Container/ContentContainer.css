@@ -1,0 +1,48 @@
+.calculator {
+    padding-top: 20px;
+}
+
+.content-text {
+    width: 700px;
+    font-family: 'AbibasMedium';
+    font-size: 40px;
+}
+
+.btn-image {
+    background: none;
+    border: none;
+}
+
+.btn-image:focus {
+    outline: none; 
+}
+
+.col-img-cesar {
+    margin: 0;
+    margin-top: 25px;
+}
+
+.img-cesar2 {
+    width: 450px;
+    height: 450px;
+}
+
+
+.col-cal {
+    background: url('../../assets//img/parchment.png') no-repeat;
+    background-size: cover;
+}
+
+.img-error {
+    width: 152px;
+    height: 152px;
+    border: 1px black solid;
+}
+
+.col-error {
+    display: block;
+    padding-top:150px;
+    padding-left: 150px;
+    font-family: 'AbibasMedium';
+    font-size: 15px;
+}
